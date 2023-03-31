@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="myButton1">OK!</string>
+    <string name="myButton2">Click Me2!</string>
+    <string name="myButton3">Next...</string>
+    <string name="myText">Enter Your Age:</string>
+    <string name="sentToActivity">Sent To Activity2</string>
+    <string name="openForReceive">Open For Receiving Data</string>
+    <string name="openWebsite">Open Google.com</string>
+    <string name="welcome2p">Welcome!</string>
+    <string name="phoneDia">PHONE DIAL</string>
+    <string name="phoneCall">PHONE CALL</string>
+    <string name="viewBinding">viewBinding</string>
+    <string name="introText">Im from the main UI</string>
+    <string name="introButton">intro Message</string>
+    <string name="Skip">Skip</string>
+    <string name="sent">sent</string>
+    <string name="editText">write here</string>
+    <string name="textView">message</string>
+    <string name="button">sent</string>
+    <string name="HELLOW">HELLOW</string>
+</resources>
